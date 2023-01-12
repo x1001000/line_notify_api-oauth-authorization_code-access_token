@@ -1,1 +1,1 @@
-# WatchGPT
+https://notify-bot.line.me/oauth/authorize?response_type=code&response_mode=form_post&scope=notify&client_id=p4EM9LM5psKQCZM74cYNj4&redirect_uri=https://3f5v30il55.execute-api.ap-east-1.amazonaws.com/callback&state=亂碼
